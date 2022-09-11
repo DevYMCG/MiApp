@@ -1,2 +1,0 @@
-# MiApp
-Ruby on Rails
